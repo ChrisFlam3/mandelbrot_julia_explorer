@@ -16,4 +16,4 @@ mouse scroll or + - for zoom
 
 mouse panning for camera moving
 
-Dont use I unless you read code and really know what you're doing, this feature was only partially implemented.
+Dont use i unless you read code and really know what you're doing, this feature was only partially implemented.
